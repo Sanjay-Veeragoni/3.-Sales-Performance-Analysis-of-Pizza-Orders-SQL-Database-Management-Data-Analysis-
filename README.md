@@ -1,1 +1,1 @@
-# 3.-Sales-Performance-Analysis-of-Pizza-Orders-SQL-Database-Management-Data-Analysis-
+# 3.-Sales-Performance-Analysis-of-Pizza-Orders-SQL
